@@ -1,0 +1,23 @@
+*{
+   padding: 0;
+}
+.principal{
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header{
+
+}
+ul{
+    
+}
+img{
+    
+    width: 30px;
+    height: 30px;
+}
+.icone{
+    width: 100px;
+}
